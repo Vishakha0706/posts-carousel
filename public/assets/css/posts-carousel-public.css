@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.carousel-content-wrap {
+    border: 2px solid gainsboro;
+    text-align: center;
+    padding: 10px;
+    background-color: azure;
+}
+
+.carousel-content h3 {
+	margin-top: 10px;
+}
+
+.carousel-content h3 a {
+	text-decoration: none;
+}	
